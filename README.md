@@ -118,18 +118,20 @@ tutor-english-llm/
 ### 📸 Capturas de Tela
 
 
-```markdown
 
 
-### 📱 Tela Inicial
-<img src="frontend/img/exemplo1.png" alt="Tela inicial" width="300"/>
-
-### 💬 Terminal de Perguntas
-<img src="frontend/img/exemplo2.png" alt="Terminal de perguntas" width="300"/>
-
-### 🐥 Ícone Fofo do App
-<img src="./assets/icon.png" alt="Ícone do App" width="100"/>
-```
+<table>
+  <tr>
+    <td align="center"><strong>📱 Tela Inicial</strong></td>
+    <td align="center"><strong>💬 Terminal de Perguntas</strong></td>
+    <td align="center"><strong>🐥 Ícone Fofo do App</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./frontend/img/exemplo1.jpeg" alt="Tela inicial" width="300"/></td>
+    <td><img src="./frontend/img/exemplo2.jpeg" alt="Terminal de perguntas" width="300"/></td>
+    <td><img src="./frontend/assets/icon.png" alt="Ícone do App" width="300"/></td>
+  </tr>
+</table>
 
 
 
